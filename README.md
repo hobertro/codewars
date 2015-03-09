@@ -1,6 +1,6 @@
 # Code Wars Challenges
 
-My solutions to Code Wars challenges 
+My solutions to Code Wars challenges and the links to those challenges.
 
 ## Level 8 Kyu
 
